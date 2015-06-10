@@ -1,7 +1,17 @@
 # Harry Seaton Website
 
-- Intro
-- Talk about LP
+## Introduction
+
+I have developed a website for a Singer/Songwriter based in Norfolk, Harry Seaton. The client did not previously have a website and due to his increased popularity collaborating with some of the UK's emerging social media talent such as Sam King, his fan base is rapidly increasing. 
+
+#### Issues with having no website
+
+Some issues with not having a website was that there was no way for fans to go and interact other than social media sites. Whereas, having a central location where fans could find new information such as albums, tour dates and images in one place would meet the needs of the users. Another issue was that although social media was great for exposure, it has limited capabilities with no effective way to increase ticket sales, which I hoped to achieve when developing the website.
+
+
+#### Aims of the Website
+
+
 
 
 ## Recipe
@@ -11,20 +21,30 @@
 - process
 
 
-## Wireframing
+## Website Wire framing
 
 - links/images of wireframe
 - digital and paper
 
+## Formative Presentation
+
+
 
 ## Live Website
 
-The website is online and avaliable [here](http://harryseaton.raveweb.net/).
+The website is online and available [here](http://harryseaton.raveweb.net/).
 
 - link
 - screenshots
+- overview of site, hosting/themes/wp/code
 - backend (WP dash)
 
+#### Frontend (HTML/CSS)
+
+
+#### Backend (PHP/jQuery)
+
+#### Wordpress
 
 
 ## Summative Presentation
@@ -74,6 +94,8 @@ The website is online and avaliable [here](http://harryseaton.raveweb.net/).
 - [Unit Reflection - What did you learn?](https://medium.com/@TOMSHARMAN/web-development-fc60c2009a06)
 
 
+
+## Summary
 
 
 
