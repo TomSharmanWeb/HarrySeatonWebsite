@@ -1,15 +1,29 @@
-# Harry Seaton Website
+# WEB14105: Web Development Workshop
+## Harry Seaton Website
 
-## Introduction
+
+
+
+**Name:** Tom Sharman
+
+**Student No:** 96163114
+
+**Course:** BA (Hons) Web Media, Level 1.
+
+**Unit Code:** WEB14105
+
+
+
+### Introduction
 
 I have developed a website for a Singer/Songwriter based in Norfolk, Harry Seaton. The client did not previously have a website and due to his increased popularity collaborating with some of the UK's emerging social media talent such as Sam King, his fan base is rapidly increasing. 
 
-#### Issues with having no website
+##### Issues with having no website
 
 Some issues with not having a website was that there was no way for fans to go and interact other than social media sites. Whereas, having a central location where fans could find new information such as albums, tour dates and images in one place would meet the needs of the users. Another issue was that although social media was great for exposure, it has limited capabilities with no effective way to increase ticket sales, which I hoped to achieve when developing the website.
 
 
-#### Aims of the Website
+##### Aims of the Website
 
 *The aims of my website were:*
 
@@ -20,7 +34,7 @@ Some issues with not having a website was that there was no way for fans to go a
 You can view the aims and learning goals **[here](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/WEB14104%20Learning%20Goals.md)**.
 
 
-## Blog Posts
+### Blog Posts
 
 
 *The Blog posts for this unit are listed below:*
@@ -60,34 +74,39 @@ You can view the aims and learning goals **[here](https://github.com/TomSharmanW
 
 
 
-## Recipe
+### Recipe
+
+##### Recipe Webpage: Spaghetti Bolognese
+
+
+I have worked on two recipe projects for the unit. The first is a webpage using HTML & CSS to make a responsive webpage of a Spaghetti Bolognese Recipe found online. This helped me to get familiar with the basics of coding and experiment with responsive design.
+
+View Live Recipe Webpage **[here](http://recipe.tomsharman.com/)**.
+
+View Recipe Webpage Source Code **[here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/tree/master/Recipe/Recipe)**.
+
+
+##### API Recipe Search: EXPIRY
+
+The second is a recipe search website that displays information from an API. This has been styled using CSS and jQuery to get the information from the API to display when searched.
+
+View  Live 'EXPIRY' (Recipe Search Engine using API) **[here](http://expiry.tomsharmna.com/)**.
+
+View EXPIRY API Search Webpage Source Code **[here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/tree/master/Recipe/EXPIRY)**.
 
 
 
+### Website Wire framing
 
 
-- View 'EXPIRY' (Recipe Search Engine using API) **[here](http://expiry.tomsharmna.com/)**.
-- View Recipe Webpage **[here](http://recipe.tomsharman.com/)**.
-
-
-
-
-- links
-- description
-- process
-
-
-## Website Wire framing
-
-
-#### Paper Wireframeing
+##### Paper Wireframeing
 
 In the initial stages of the development, I created paper wireframes which allowed me to put down on paper, the ideas of the website into what would be the basic tempting of the site. This allowed me to get all of the ideas such as features and the feel of the website presented visually in a way that I can see if it looks appealing and follows convention and web trends and appeals to the user.
 
 Download the Paper Wireframes **[here]()**.
 
 
-#### Digital Wireframing
+##### Digital Wireframing
 
 
 After Feedback from my Paper Wire framing, I then created my digital wireframes of Moqups. These allowed for me to experiment with layouts popular within web design and start mapping content on the page in further detail. I also created links between the pages which was presented during my formative presentation.
@@ -96,7 +115,7 @@ View the Digital Wireframes **[here](https://moqups.com/Tomsharmanweb/CoUMNcWV/)
 
 
 
-## Formative Presentation
+### Formative Presentation
 
 I presented the progress of my development with the wire-framing and planning process and also with the recipe development on the 9th March 2015. 
 
@@ -105,7 +124,7 @@ Download my Formative Presentation **[here]()**.
 or [View on GitHub](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Formative%20Presentation/Harry%20Seaton%20Website%20Formattive%20Presentation%20-%2009.03.15.pdf)
 
 
-## Live Website
+### Live Website
 
 The website is online and available **[here](http://harryseaton.raveweb.net/)**.
 
@@ -116,25 +135,25 @@ It is hosted on the Raveweb.net server running Wordpress as the
 - overview of site, hosting/themes/wp/code
 - backend (WP dash)
 
-#### Frontend (HTML/CSS)
+##### Frontend (HTML/CSS)
 
 
 - link to each page
 
 
-#### Backend (PHP/jQuery)
+##### Backend (PHP/jQuery)
 
 - link to js files
 - any other php
 
-#### Wordpress
+##### Wordpress
 
 - screenshot of dash
 - plugins
 - remote/local
 
 
-## Summative Presentation
+### Summative Presentation
 
 - Embed presentation? (Shareslide)
 - Download Link
@@ -145,7 +164,7 @@ It is hosted on the Raveweb.net server running Wordpress as the
 
 
 
-## Summary
+### Summary
 
 
 
