@@ -1,0 +1,25 @@
+{
+  "name": "LearnPress",
+  "version": "0.1",
+  "homepage": "https://github.com/matteomenapace/LearnPress",
+  "authors": [
+    "Matteo Menapace <https://twitter.com/@baddeo>"
+  ],
+  "description": "A minimal WordPress starte theme designed for learning",
+  "main": "index.php",
+  "keywords": [
+    "WordPress"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5-boilerplate": "~5.2.0",
+    "skeleton-css": "~2.0.4"
+  }
+}
