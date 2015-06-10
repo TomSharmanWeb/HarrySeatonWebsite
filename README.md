@@ -17,7 +17,7 @@ Some issues with not having a website was that there was no way for fans to go a
 - Develop Technically Ability (Within HTML/CSS).
 - Further Understanding of the process of Web development.
 
-**You can view the aims and learning goals [here](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/WEB14104%20Learning%20Goals.md).**
+You can view the aims and learning goals **[here](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/WEB14104%20Learning%20Goals.md)**.
 
 
 
@@ -27,7 +27,7 @@ Some issues with not having a website was that there was no way for fans to go a
 
 
 
-**View Expiry (Recipe Web-App) [here](http://expiry.tomsharmna.com/).**
+View Expiry (Recipe Web-App) **[here](http://expiry.tomsharmna.com/)**.
 
 - links
 - description
@@ -41,7 +41,7 @@ Some issues with not having a website was that there was no way for fans to go a
 
 In the initial stages of the development, I created paper wireframes which allowed me to put down on paper, the ideas of the website into what would be the basic tempting of the site. This allowed me to get all of the ideas such as features and the feel of the website presented visually in a way that I can see if it looks appealing and follows convention and web trends and appeals to the user.
 
-**Download the Paper Wireframes [here]().**
+Download the Paper Wireframes **[here]()**.
 
 
 #### Digital Wireframing
@@ -49,15 +49,19 @@ In the initial stages of the development, I created paper wireframes which allow
 
 After Feedback from my Paper Wire framing, I then created my digital wireframes of Moqups. These allowed for me to experiment with layouts popular within web design and start mapping content on the page in further detail. I also created links between the pages which was presented during my formative presentation.
 
-**View the Digital Wireframes [here](https://moqups.com/Tomsharmanweb/CoUMNcWV/).**
+View the Digital Wireframes **[here](https://moqups.com/Tomsharmanweb/CoUMNcWV/)**.
 
 
 
 ## Formative Presentation
 
+I presented the progress of my development with the wire-framing and planning process and also with the recipe development on the 9th March 2015. 
 
+Download my Formative Presentation **[here]()**.
 
-**Download my Formative Presentation [here]().**
+or
+
+View as PDF 
 
 
 ## Live Website
@@ -116,25 +120,25 @@ It is hosted on the Raveweb.net server running Wordpress as the
 
 5. [Moodboard](https://www.pinterest.com/tomsharman/harry-seaton-website-inspiration/)
 
-6. 1. [Recipe Evolution: Naked HTML to Gridded CSS (Github Md) ](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/Recipe%20HTML%26CSS%20Development/recipe_html_%26_css_development.md)
+6. [Recipe Evolution: Naked HTML to Gridded CSS (Github Md) ](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/Recipe%20HTML%26CSS%20Development/recipe_html_%26_css_development.md)
 
-6. 2. [Recipe Evolution: Naked HTML to Gridded CSS (Medium Blog) ](https://medium.com/@TOMSHARMAN/from-naked-html-to-gridded-css-cf7df4eb0620)
+7. [Recipe Evolution: Naked HTML to Gridded CSS (Medium Blog) ](https://medium.com/@TOMSHARMAN/from-naked-html-to-gridded-css-cf7df4eb0620)
 
 8. [The Internet's Own Boy](https://medium.com/@TOMSHARMAN/the-ultimate-price-for-internet-freedom-567d5c503756)
 
-- [Web Design Myths](https://medium.com/@TOMSHARMAN/design-has-to-be-original-3803d773798c)
+9. [Web Design Myths](https://medium.com/@TOMSHARMAN/design-has-to-be-original-3803d773798c)
 
-- [Action Plan (Revisited)](https://medium.com/@TOMSHARMAN/wireframe-feedback-plan-of-action-4666f2ab21ce)
+10. [Action Plan (Revisited)](https://medium.com/@TOMSHARMAN/wireframe-feedback-plan-of-action-4666f2ab21ce)
 
-- [jQuery Challenge](https://medium.com/@TOMSHARMAN/jquery-fundimentals-1cb04e73c997)
+11. [jQuery Challenge](https://medium.com/@TOMSHARMAN/jquery-fundimentals-1cb04e73c997)
 
-- [Debugging](https://medium.com/@TOMSHARMAN/jquery-251ee55becca)
+12. [Debugging](https://medium.com/@TOMSHARMAN/jquery-251ee55becca)
 
-- [Installing Wordpress locally](https://medium.com/@TOMSHARMAN/how-to-install-wordpress-locally-10de0a5a1a4f)
+13. [Installing Wordpress locally](https://medium.com/@TOMSHARMAN/how-to-install-wordpress-locally-10de0a5a1a4f)
 
-- [Destroy the Web](https://medium.com/@TOMSHARMAN/exclude-china-and-india-9f30b33f4e33)
+14. [Destroy the Web](https://medium.com/@TOMSHARMAN/exclude-china-and-india-9f30b33f4e33)
 
-- [Unit Reflection - What did you learn?](https://medium.com/@TOMSHARMAN/web-development-fc60c2009a06)
+15. [Unit Reflection - What did you learn?](https://medium.com/@TOMSHARMAN/web-development-fc60c2009a06)
 
 
 
