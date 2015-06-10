@@ -163,11 +163,16 @@ I have also Implemented some php functions and jQuery Functions into the website
 
 The static HTML files were converted into a php Wordpress theme, LearnPress. This gave the very basic structure of a wordpress theme and I implemented the code into a php file for each page. The header and footer code was then added to the header.php and footer.php.
 
+
 Here is an image of the WP Dashboard for the live website:
-![image](http://)
+![image](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Miscellaneous/liveWebsiteWPDashboard.png)
 
 
-The Plugins used were Advanced Custom Fields, Advanced Custom Fields Rpeater and Migrate DB. 
+The Plugins used were Advanced Custom Fields, Advanced Custom Fields Rpeater and Migrate Sync DB. Advanced Custom Fields allowed for fields to be added to the site in which the site admin could easily change content, and using php implemented into the code, would change the pages content. The Migrate Sync DB plugin synchronised the databases from the local Wordpress to the Remote Wordpress (The Live website).
+
+
+Here is an image of the Plugins used on Wordpress:
+![image](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Miscellaneous/liveWebsiteWPPlugins.png)
 
 
 
