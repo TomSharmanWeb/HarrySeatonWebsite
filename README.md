@@ -155,15 +155,19 @@ The website has been coded in HTML & CSS, then implemented into the LearnPress W
 
 I have also Implemented some php functions and jQuery Functions into the website so add features such as the video player, the sound for the homepage video and the LookBook masonry.
 
-- [Masonry](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/js/masonry.js)
-- [HomePage Video Sound](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/js/homevid.js)
+- [Masonry jQuery Code](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/js/masonry.js)
+- [HomePage Video Sound jQuery Code](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/js/homevid.js)
 
 
 ##### Implementation with Wordpress as CMS
 
-- screenshot of dash
-- plugins
-- remote/local
+The static HTML files were converted into a php Wordpress theme, LearnPress. This gave the very basic structure of a wordpress theme and I implemented the code into a php file for each page. The header and footer code was then added to the header.php and footer.php.
+
+Here is an image of the WP Dashboard for the live website:
+![image](http://)
+
+
+The Plugins used were Advanced Custom Fields, Advanced Custom Fields Rpeater and Migrate DB. 
 
 
 
@@ -186,6 +190,11 @@ The website has been styled in CSS using the Skeleton CSS Boilerplate and then c
 - Video Download Link
 - 
 
+Download the Summative Presentation [here]()
+
+View the PDF on GitHub [here]()
+
+Watch Video Presentation [here]()
 
 
 ### Summary
