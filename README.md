@@ -140,7 +140,7 @@ The website has been coded in HTML & CSS, then implemented into the LearnPress W
 
 
 - [Header](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/header.php)
-- [Home Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/index.php)
+- [Home Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-home.php)
 - [Tickets Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-tickets.php)
 - [Watch Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-watch.php)
 - [Connect Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-connect.php)
