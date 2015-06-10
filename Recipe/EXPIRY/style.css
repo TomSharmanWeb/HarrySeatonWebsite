@@ -1,0 +1,48 @@
+/*
+    Document   : style.css
+    Created on : 2015-04-17 10:31 AM
+    Author     : TomSharman
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+
+form {
+    display: inline-block;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    }
+
+h1 {
+    text-align: center;
+    margin-top: 21%;
+    font-weight: bold;
+    font-family: 'Oxygen', sans-serif;
+    
+}
+
+p {text-align: center;
+  font-family: 'Oxygen', sans-serif;
+}
+
+body {
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+
+img {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+li {
+   text-decoration: none;
+   text-align: left;
+   list-style: none;
+    
+}
