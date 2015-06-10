@@ -11,6 +11,13 @@ Some issues with not having a website was that there was no way for fans to go a
 
 #### Aims of the Website
 
+*The aims of my website were:*
+
+- Improve Organisational Skills.
+- Develop Technically Ability (Within HTML/CSS).
+- Further Understanding of the process of Web development.
+
+**You can view the aims and learning goals [here](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/WEB14104%20Learning%20Goals.md).**
 
 
 
@@ -42,9 +49,19 @@ The website is online and available [here](http://harryseaton.raveweb.net/).
 #### Frontend (HTML/CSS)
 
 
+- link to each page
+
+
 #### Backend (PHP/jQuery)
 
+- link to js files
+- any other php
+
 #### Wordpress
+
+- screenshot of dash
+- plugins
+- remote/local
 
 
 ## Summative Presentation
