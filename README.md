@@ -27,7 +27,11 @@ You can view the aims and learning goals **[here](https://github.com/TomSharmanW
 
 
 
-View Expiry (Recipe Web-App) **[here](http://expiry.tomsharmna.com/)**.
+- View 'EXPIRY' (Recipe Search Engine using API) **[here](http://expiry.tomsharmna.com/)**.
+- View Recipe Webpage **[here](http://recipe.tomsharman.com/)**.
+
+
+
 
 - links
 - description
@@ -59,9 +63,7 @@ I presented the progress of my development with the wire-framing and planning pr
 
 Download my Formative Presentation **[here]()**.
 
-or
-
-View as PDF 
+or [View on GitHub](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Formative%20Presentation/Harry%20Seaton%20Website%20Formattive%20Presentation%20-%2009.03.15.pdf)
 
 
 ## Live Website
