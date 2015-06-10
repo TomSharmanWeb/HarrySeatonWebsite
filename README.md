@@ -126,34 +126,58 @@ or [View on GitHub](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/mas
 
 ### Live Website
 
+
+The website is hosted on the Raveweb.net server running Wordpress in the backend as a content management system (CMS). 
+
 The website is online and available **[here](http://harryseaton.raveweb.net/)**.
 
-It is hosted on the Raveweb.net server running Wordpress as the 
 
-- link
-- screenshots
-- overview of site, hosting/themes/wp/code
-- backend (WP dash)
+##### Front-End Code
 
-##### Frontend (HTML/CSS)
+The website has been coded in HTML & CSS, then implemented into the LearnPress Wordpress theme using php page templates. 
+
+*Page Source Codes:*
 
 
-- link to each page
+- [Header](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/header.php)
+- [Home Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/index.php)
+- [Tickets Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-tickets.php)
+- [Watch Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-watch.php)
+- [Connect Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-connect.php)
+- [LookBook Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-lookbook.php)
+- [Terms Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-terms.php)
+- [Footer](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/footer.php)
 
 
-##### Backend (PHP/jQuery)
 
-- link to js files
-- any other php
 
-##### Wordpress
+##### Back-End Code
+
+I have also Implemented some php functions and jQuery Functions into the website so add features such as the video player, the sound for the homepage video and the LookBook masonry.
+
+- [Masonry](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/js/masonry.js)
+- [HomePage Video Sound](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/js/homevid.js)
+
+
+##### Implementation with Wordpress as CMS
 
 - screenshot of dash
 - plugins
 - remote/local
 
 
+
+##### CSS
+
+The website has been styled in CSS using the Skeleton CSS Boilerplate and then custom CSS (main.css). This has been overwritten of the skeleton CSS files to style the website.
+
+- [Custom Website CSS](https://github.com/TomSharmanWeb/HarrySeatonWebsite/tree/master/Website/css)
+
+
 ### Summative Presentation
+
+
+
 
 - Embed presentation? (Shareslide)
 - Download Link
