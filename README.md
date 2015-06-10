@@ -19,6 +19,8 @@
 
 ## Live Website
 
+The website is online and avaliable [here](http://harryseaton.raveweb.net/).
+
 - link
 - screenshots
 - backend (WP dash)
