@@ -103,7 +103,9 @@ View EXPIRY API Search Webpage Source Code **[here](https://github.com/TomSharma
 
 In the initial stages of the development, I created paper wireframes which allowed me to put down on paper, the ideas of the website into what would be the basic tempting of the site. This allowed me to get all of the ideas such as features and the feel of the website presented visually in a way that I can see if it looks appealing and follows convention and web trends and appeals to the user.
 
-Download the Paper Wireframes **[here]()**.
+Download the Paper Wireframes (Stage 1) **[here](https://drive.google.com/a/tomsharman.com/file/d/0B-byAkkN9IvyWlhySEVRYmVGcjg/view?usp=sharing)**.
+
+Download the Paper Wireframes (Stage 2) **[here](https://drive.google.com/a/tomsharman.com/file/d/0B-byAkkN9IvydVZ3YmlaclRpbDQ/view?usp=sharing)**.
 
 
 ##### Digital Wireframing
@@ -113,13 +115,15 @@ After Feedback from my Paper Wire framing, I then created my digital wireframes 
 
 View the Digital Wireframes **[here](https://moqups.com/Tomsharmanweb/CoUMNcWV/)**.
 
+Download the Digital Wireframes (Stage 3) **[here](https://drive.google.com/a/tomsharman.com/file/d/0B-byAkkN9IvyXzQ1bGFLblhJZFk/view?usp=sharing)**.
+
 
 
 ### Formative Presentation
 
 I presented the progress of my development with the wire-framing and planning process and also with the recipe development on the 9th March 2015. 
 
-Download my Formative Presentation **[here]()**.
+Download my Formative Presentation **[here](https://drive.google.com/file/d/0B-byAkkN9IvybnFmY1JaRHRDbDg/view?usp=sharing)**.
 
 or [View on GitHub](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Formative%20Presentation/Harry%20Seaton%20Website%20Formattive%20Presentation%20-%2009.03.15.pdf)
 
@@ -180,7 +184,7 @@ Here is an image of the Plugins used on Wordpress:
 
 The website has been styled in CSS using the Skeleton CSS Boilerplate and then custom CSS (main.css). This has been overwritten of the skeleton CSS files to style the website.
 
-- [Custom Website CSS](https://github.com/TomSharmanWeb/HarrySeatonWebsite/tree/master/Website/css)
+View the Custom CSS **[here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/tree/master/Website/css)**.
 
 
 ### Summative Presentation
