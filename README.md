@@ -197,7 +197,6 @@ View the PDF on GitHub [here]()
 Watch Video Presentation [here]()
 
 
-### Summary
 
 
 
