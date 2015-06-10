@@ -23,6 +23,12 @@ Some issues with not having a website was that there was no way for fans to go a
 
 ## Recipe
 
+
+
+
+
+**View Expiry (Recipe Web-App) [here](http://expiry.tomsharmna.com/).**
+
 - links
 - description
 - process
@@ -30,16 +36,35 @@ Some issues with not having a website was that there was no way for fans to go a
 
 ## Website Wire framing
 
-- links/images of wireframe
-- digital and paper
+
+#### Paper Wireframeing
+
+In the initial stages of the development, I created paper wireframes which allowed me to put down on paper, the ideas of the website into what would be the basic tempting of the site. This allowed me to get all of the ideas such as features and the feel of the website presented visually in a way that I can see if it looks appealing and follows convention and web trends and appeals to the user.
+
+**Download the Paper Wireframes [here]().**
+
+
+#### Digital Wireframing
+
+
+After Feedback from my Paper Wire framing, I then created my digital wireframes of Moqups. These allowed for me to experiment with layouts popular within web design and start mapping content on the page in further detail. I also created links between the pages which was presented during my formative presentation.
+
+**View the Digital Wireframes [here](https://moqups.com/Tomsharmanweb/CoUMNcWV/).**
+
+
 
 ## Formative Presentation
 
 
 
+**Download my Formative Presentation [here]().**
+
+
 ## Live Website
 
-The website is online and available [here](http://harryseaton.raveweb.net/).
+The website is online and available **[here](http://harryseaton.raveweb.net/)**.
+
+It is hosted on the Raveweb.net server running Wordpress as the 
 
 - link
 - screenshots
@@ -77,24 +102,25 @@ The website is online and available [here](http://harryseaton.raveweb.net/).
 ## Blog Posts
 
 
+*The Blog posts for this unit are listed below:*
 
 
-- [Draw The Web](http://www.fourthfloor.me/blogs/tsharman/2015/01/10/my-world-wide-web/)
+1. [Draw The Web](http://www.fourthfloor.me/blogs/tsharman/2015/01/10/my-world-wide-web/)
 
 
-- [Unit Learning Goals](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/WEB14104%20Learning%20Goals.md)
+2. [Unit Learning Goals](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/WEB14104%20Learning%20Goals.md)
 
-- [Present the bad website you will redesign](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/3%20Website%20Review/Bad%20Website%20-%20Overview%20of%203.md)
+3. [Present the bad website you will redesign](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/3%20Website%20Review/Bad%20Website%20-%20Overview%20of%203.md)
 
-- [Action Plan (Trello)](https://medium.com/@TOMSHARMAN/organising-web-development-1a7bd7c5822)
+4. [Action Plan (Trello)](https://medium.com/@TOMSHARMAN/organising-web-development-1a7bd7c5822)
 
-- [Moodboard](https://www.pinterest.com/tomsharman/harry-seaton-website-inspiration/)
+5. [Moodboard](https://www.pinterest.com/tomsharman/harry-seaton-website-inspiration/)
 
-- [Recipe Evolution: Naked HTML to Gridded CSS (Github Md) ](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/Recipe%20HTML%26CSS%20Development/recipe_html_%26_css_development.md)
+6. 1. [Recipe Evolution: Naked HTML to Gridded CSS (Github Md) ](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/Recipe%20HTML%26CSS%20Development/recipe_html_%26_css_development.md)
 
-- [Recipe Evolution: Naked HTML to Gridded CSS (Medium Blog) ](https://medium.com/@TOMSHARMAN/from-naked-html-to-gridded-css-cf7df4eb0620)
+6. 2. [Recipe Evolution: Naked HTML to Gridded CSS (Medium Blog) ](https://medium.com/@TOMSHARMAN/from-naked-html-to-gridded-css-cf7df4eb0620)
 
-- [The Internet's Own Boy](https://medium.com/@TOMSHARMAN/the-ultimate-price-for-internet-freedom-567d5c503756)
+8. [The Internet's Own Boy](https://medium.com/@TOMSHARMAN/the-ultimate-price-for-internet-freedom-567d5c503756)
 
 - [Web Design Myths](https://medium.com/@TOMSHARMAN/design-has-to-be-original-3803d773798c)
 
