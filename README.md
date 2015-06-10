@@ -186,14 +186,9 @@ The website has been styled in CSS using the Skeleton CSS Boilerplate and then c
 ### Summative Presentation
 
 
+I presented the Summative Presentation via Video on Friday 12th June 2015 due to being unable to attend the lecture. It gave me an opportunity to present the project and explain the process in which I took to complete the development. I explained the complications that occurred and how I met the aims that myself and the client initially set during the start of the unit.
 
 
-- Embed presentation? (Shareslide)
-- Download Link
-- ZIP Links
-- Google Drive Links (Big Files)
-- Video Download Link
-- 
 
 Download the Summative Presentation [here]()
 
@@ -203,6 +198,8 @@ Watch Video Presentation [here]()
 
 
 ### Summary
+
+
 
 
 
