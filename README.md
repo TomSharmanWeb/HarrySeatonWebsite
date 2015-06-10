@@ -150,6 +150,7 @@ The website has been coded in HTML & CSS, then implemented into the LearnPress W
 - [Connect Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-connect.php)
 - [LookBook Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-lookbook.php)
 - [Terms Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/page-terms.php)
+- [404 Page](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/templates/404.php)
 - [Footer](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/Website/footer.php)
 
 
