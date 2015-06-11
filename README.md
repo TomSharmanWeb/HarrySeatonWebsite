@@ -194,13 +194,12 @@ View the Custom CSS **[here](https://github.com/TomSharmanWeb/HarrySeatonWebsite
 I presented the Summative Presentation via Video on Friday 12th June 2015 due to being unable to attend the lecture. It gave me an opportunity to present the project and explain the process in which I took to complete the development. I explained the complications that occurred and how I met the aims that myself and the client initially set during the start of the unit.
 
 
+![image]()
 
-Download the Summative Presentation [here]()
 
-View the PDF on GitHub [here]()
+[Watch Summative Presentation Video](https://youtu.be/PzartmoljMI)
 
-Watch Video Presentation [here]()
-
+[Download Summative Presentation Video]()
 
 
 
